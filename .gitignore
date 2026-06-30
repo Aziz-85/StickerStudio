@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Output
+output/
+stickers_input/
+stickers_output/
